@@ -48,7 +48,6 @@ export const SFBtn = styled.button`
   width: 35px;
   height: 35px;
   border: 0;
-  background-image: url('https://image.flaticon.com/icons/svg/149/149852.svg');
   background-size: 40%;
   background-repeat: no-repeat;
   background-position: center;
