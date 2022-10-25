@@ -9,8 +9,8 @@ const Loader = () => {
         <SpinerWraper>
             <ColorRing
                 visible={true}
-                height="140"
-                width="140"
+                height="250"
+                width="250"
                 ariaLabel="blocks-loading"
                 wrapperStyle={{}}
                 wrapperClass="blocks-wrapper"
